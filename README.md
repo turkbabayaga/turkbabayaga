@@ -1,5 +1,5 @@
 # 💫 About Me :
-👋 Hi there! I'm Dervis Sahin, a final-year BTS SIO (Software Development) student passionate about coding, problem-solving, and building innovative digital solutions. My goal? To become a Software Engineer and keep growing in the tech world!<br><br>💡 What I Do:<br>✨ Full-Stack Development – Laravel, Node.js, PHP<br>🎨 Frontend Magic – React.js, Three.js, JavaScript<br>📱 Mobile Development – Android (Java/Kotlin)<br>🔐 Cybersecurity & Databases<br><br>🚀 Currently, I’m also working as a freelancer, always looking for new challenges and opportunities to learn and collaborate.<br><br>📩 Feel free to reach out – let's connect and build something amazing !<br><br>
+👋 Hi there! I'm Dervis Sahin, a final-year BTS SIO (Software Development) student passionate about coding, problem-solving, and building innovative digital solutions. My goal? To become a Software Engineer and keep growing in the tech world!<br><br>💡 What I Do:<br>✨ Full-Stack Development – Laravel, Node.js, PHP, Python<br>🎨 Frontend Magic – React.js, Three.js, JavaScript<br>📱 Mobile Development – Android (Java/Kotlin)<br>🔐 Cybersecurity & Databases<br><br>🚀 Currently, I’m also working as a freelancer, always looking for new challenges and opportunities to learn and collaborate.<br><br>📩 Feel free to reach out – let's connect and build something amazing !<br><br>
 
 
 # 💻 Tech Stack:
